@@ -1,4 +1,4 @@
-# Iniciacao-Cientifica-e-Tecnologica-do-UniBH
+# Iniciação Cientifica e Tecnologica do UniBH
 
 Projeto Health Lab 4.0
 Análise Preditiva na Área da Saúde com Machine Learning 
