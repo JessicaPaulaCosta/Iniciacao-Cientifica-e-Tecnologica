@@ -29,3 +29,7 @@ Conclusão: O dataset foi insuficiente para criar um modelo adequado, muito pela
 
 _____________ 
 Trabalhos futuros: Trabalhar no campo textual (não estruturado) com técnicas de PLN – Processamento de Linguagem Natural.
+
+_____________ 
+
+Apresentação: https://www.youtube.com/watch?v=u8cTE6KkIcs&t=1900s
